@@ -26,5 +26,14 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-  font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif;
+}
+
+.btn-custom{
+	background-color: #f41f4e;
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 18px;
 }
