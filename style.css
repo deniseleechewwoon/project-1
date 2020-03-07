@@ -52,3 +52,46 @@ h1{
 	font-size: 24px;
 	color: #808080;
 }
+
+.abtus-custom{
+	padding-top: 5px;
+	padding-bottom: 0px;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	color: #808080;
+}
+
+.container {
+	position: relative;
+	width: 100%;
+}
+
+.overlay-custom {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 91%;
+	opacity: 0;
+	transition: 0.5s ease;
+	background-color: #f41f4e;
+}
+
+.container:hover .overlay-custom {
+	opacity: 0.9;
+}
+
+.text2 {
+	color: white;
+	font-family: 'Rouge Script', cursive;
+	font-size: 4em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
