@@ -37,7 +37,7 @@
 
 
 @keyframes mymove {
-	from {top: -500px; background-color: #808080;}
+	from {top: -800px;}
 	to {top: 0px;}
 
 }
@@ -53,7 +53,7 @@
 	font-size: 20px;
 	padding-left: 30px;
 	padding-right: 30px;
-	width: 300px;
+	width: 310px;
 	transition: all 0.5s;
 	cursor: pointer;
 	margin: 5px;
@@ -100,8 +100,24 @@ h1{
 	color: #808080;
 }
 
+.mid-h1{
+	padding-top: 35px;
+	font-weight: 500;
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+	color: #808080;
+}
+
 .abtus-custom{
 	padding-top: 5px;
+	padding-bottom: 0px;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	color: #808080;
+}
+
+.abtus-custom2{
+	padding-top: 0px;
 	padding-bottom: 0px;
 	font-family: 'Lato', sans-serif;
 	font-size: 16px;
@@ -141,7 +157,7 @@ h1{
 	color: white;
 	text-transform: uppercase;
 	font-family: 'Lato', sans-serif;
-	font-size: 50px;
+	font-size: 3.5vw;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -180,7 +196,7 @@ h1{
 .text2 {
 	color: white;
 	font-family: 'Rouge Script', cursive;
-	font-size: 4em;
+	font-size: 4vw;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -188,4 +204,12 @@ h1{
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 	text-align: center;
+}
+
+.designation{
+	color: #808080;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	position: relative;
+	font-size: 1vw;
 }
