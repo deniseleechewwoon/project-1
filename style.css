@@ -29,14 +29,48 @@
     font-family: 'Lato', sans-serif;
 }
 
-.btn-custom{
-	background-color: #f41f4e;
+.button {
 	text-transform: uppercase;
 	font-family: 'Lato', sans-serif;
-	padding-left: 40px;
-	padding-right: 40px;
-	font-size: 18px;
-}
+	border-radius: 4px;
+	background-color: #f41f4e;
+	border: none;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	width: 300px;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+  }
+
+  .button span {
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: 0.5s;
+  }
+  
+  .button span:after {
+	content: '\00bb';
+	font-size: 2em;
+	position: absolute;
+	opacity: 0;
+	top: -18px;
+	right: -20px;
+	transition: 0.5s;
+  }
+  
+  .button:hover span {
+	padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+	opacity: 1;
+	right: 0;
+  }
 
 .footer-custom{
 	background-color: #2a2a2a;
