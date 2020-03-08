@@ -213,3 +213,29 @@ h1{
 	position: relative;
 	font-size: 1vw;
 }
+
+.jumbotron {
+	background-size: cover no-repeat center;
+	height: 400px;
+	background-size: cover;
+	margin-bottom: 1px;
+	position: relative;
+}
+
+.jumbotron .content {
+	position: absolute; /* Position the background text */
+	bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+	background: rgb(0, 0, 0); /* Fallback color */
+	background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+	color: #f1f1f1; /* Grey text */
+	width: 	100%; /* Full width */
+	padding: 30px; /* Some padding */
+	text-align: center;
+	
+  }
+
+  h3{
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+  }
+
