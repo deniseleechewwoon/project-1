@@ -7,6 +7,9 @@
     <!--Bootstrap CSS-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
+    <!--BaguetteBox-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css" />
+  
     <!--Style Sheet-->
     <link rel="stylesheet" type="text/css" href="style.css">
 
@@ -51,7 +54,7 @@
           </ul>
         </div>
       </nav>
-  
+    
     <!--Content - Picture Gallery for Portrait-->
 
     <!--https://unsplash.com/photos/Ex1TxrV6NBA-->
@@ -61,51 +64,100 @@
         </div>
     </div>
    
-    <div class="container animate-custom">      
-        <img id="myImg" src="img/profile-one.jpg" alt="Snow" style="width:100%;max-width:300px">
-        <div id="myModal" class="modal">
-            <span class="close">&times;</span>
-            <img class="modal-content" id="img01">
-        <div id="caption"></div>
-        </div>
-    </div>
-
-    
-        <!--Footer-->
-        <footer class="page-footer font-small">
-
-        <!-- Copyright -->
-        <div class="footer-copyright text-center py-3 footer-light footer-custom">Ardour Photography© 2020 Copyright
-        </div>
+    <!--Gallery-->
+    <!--https://www.youtube.com/watch?v=gnDOjWUSHks-->
+    <section class="gallery-block cards-gallery">
+    <div class="container">
         
-        <!--Javascript for Modal-->
-        <script>
-            // Get the modal
-            var modal = document.getElementById("myModal");
-            
-            // Get the image and insert it inside the modal - use its "alt" text as a caption
-            var img = document.getElementById("myImg");
-            var modalImg = document.getElementById("img01");
-            var captionText = document.getElementById("caption");
-            img.onclick = function(){
-              modal.style.display = "block";
-              modalImg.src = this.src;
-              captionText.innerHTML = this.alt;
-            }
-            
-            // Get the <span> element that closes the modal
-            var span = document.getElementsByClassName("close")[0];
-            
-            // When the user clicks on <span> (x), close the modal
-            span.onclick = function() { 
-              modal.style.display = "none";
-            }
-        </script>
+        <div class="row">
+
+          <div class="col-md-6 col-lg-4">
+            <div class="card border-0 transform-on-hover">
+              <a class="lightbox" href="F1.jpg"><img src="F1.jpg" class="card-img-top"></a>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4">
+            <div class="card border-0 transform-on-hover">
+              <a class="lightbox" href="F1.jpg"><img src="F1.jpg" class="card-img-top"></a>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4">
+            <div class="card border-0 transform-on-hover">
+              <a class="lightbox" href="F1.jpg"><img src="F1.jpg" class="card-img-top"></a>
+            </div>
+          </div>
+
+        </div>  
+
+        <div class="row">
+
+          <div class="col-md-6 col-lg-4">
+            <div class="card border-0 transform-on-hover">
+              <a class="lightbox" href="F1.jpg"><img src="F1.jpg" class="card-img-top"></a>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4">
+            <div class="card border-0 transform-on-hover">
+              <a class="lightbox" href="F1.jpg"><img src="F1.jpg" class="card-img-top"></a>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4">
+            <div class="card border-0 transform-on-hover">
+              <a class="lightbox" href="F1.jpg"><img src="F1.jpg" class="card-img-top"></a>
+            </div>
+          </div>
+          
+        </div>  
+
+        <div class="row">
+
+          <div class="col-md-6 col-lg-4">
+            <div class="card border-0 transform-on-hover">
+              <a class="lightbox" href="F1.jpg"><img src="F1.jpg" class="card-img-top"></a>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4">
+            <div class="card border-0 transform-on-hover">
+              <a class="lightbox" href="F1.jpg"><img src="F1.jpg" class="card-img-top"></a>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4">
+            <div class="card border-0 transform-on-hover">
+              <a class="lightbox" href="F1.jpg"><img src="F1.jpg" class="card-img-top"></a>
+            </div>
+          </div>
+          
+        </div>  
+      
+    </div>
+    </section>
+ 
+    <!--Footer-->
+    <footer class="page-footer font-small">
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3 footer-light footer-custom">Ardour Photography© 2020 Copyright
+    </div>
+        
     
-        <!-- Optional JavaScript -->
-        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    <!--BaguetteBox-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+    <script>
+	      baguetteBox.run('.cards-gallery', {animation: 'slideIn'});
+    </script>
+
 </body>
 </html>
