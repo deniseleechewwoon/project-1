@@ -24,7 +24,7 @@
 .masthead {
     height: 95vh;
     min-height: 400px;
-    background-image: url('img/home-photo.jpg');
+    background-image: url('home-photo.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -134,6 +134,13 @@ h1{
 
 .image {
 	display: block;
+	width: 90%;
+	height: 90%
+	height: auto;
+}
+
+.image-custom {
+	display: block;
 	width: 100%;
 	height: auto;
 }
@@ -169,26 +176,25 @@ h1{
 	text-align: center;
 }
 
+.padding-custom{
+	padding:20px;
+}
 .overlay-custom{
+
 	position: absolute;
 	top: 0;
-	bottom: 0;
 	left: 0;
-	right: 0;
 	height: 100%;
-	width: 91%;
+	width: 90%;
 	opacity: 0;
-	transition: 0.8s ease;
-	background-color: #f41f4e;
-	overflow: hidden;
-	-ms-transform: scale(0);
-	-webkit-transform: scale(0);
-  	transform: scale(0);
-  	-webkit-transition: 0.8s ease;
-  	transition: 0.8s ease;
+    background-color: #f41f4e;
+    overflow: hidden;
+    transform: scale(0);
+    transition: 0.7s ease;
+    display: block;
 }
 
-.container:hover .overlay-custom {
+#pot .col:hover .overlay-custom {
 	-webkit-transform: scale(1);
 	-ms-transform: scale(1);
 	transform: scale(1);
@@ -208,13 +214,6 @@ h1{
 	text-align: center;
 }
 
-.designation{
-	color: #808080;
-	font-family: 'Lato', sans-serif;
-	text-transform: uppercase;
-	position: relative;
-	font-size: 1vw;
-}
 
 .jumbotron {
 	background-size: cover no-repeat;
