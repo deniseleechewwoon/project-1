@@ -152,7 +152,7 @@ h1{
 	left: 0;
 	right: 0;
 	height: 100%;
-	width: 97.3%;
+	width: 100%;
 	opacity: 0;
 	transition: 0.5s ease;
 	background-color: #f41f4e;
@@ -179,6 +179,7 @@ h1{
 .padding-custom{
 	padding:20px;
 }
+
 .overlay-custom{
 
 	position: absolute;
