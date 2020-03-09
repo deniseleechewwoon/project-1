@@ -147,6 +147,7 @@ h1{
 
 .overlay {
 	position: absolute;
+	top: 0;
 	bottom: 0;
 	left: 0;
 	right: 0;
@@ -176,7 +177,7 @@ h1{
 }
 
 .padding-custom{
-	padding:15px;
+	padding:20px;
 }
 
 .overlay-custom{
@@ -194,7 +195,7 @@ h1{
     display: block;
 }
 
-#pot .col:hover .overlay-custom {
+#portrait .col:hover .overlay-custom {
 	-webkit-transform: scale(1);
 	-ms-transform: scale(1);
 	transform: scale(1);
