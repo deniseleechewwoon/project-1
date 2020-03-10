@@ -23,7 +23,7 @@
 
 .masthead {
     height: 95vh;
-    min-height: 400px;
+	min-height: 400px;
     background-image: url('home-photo.jpg');
     background-size: cover;
     background-position: center;
