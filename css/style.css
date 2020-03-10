@@ -135,7 +135,7 @@ h1{
 .image {
 	display: block;
 	width: 90%;
-	height: 90%;
+	height: auto;
 }
 
 .image-custom {
@@ -220,7 +220,6 @@ h1{
 	background-size: cover no-repeat center;
 	height: 500px;
 	margin-bottom: 1px;
-	background-size: cover;
 	position: relative;
 }
 
