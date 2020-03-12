@@ -4,11 +4,11 @@
 
 For this project, I am creating a website for a fictitious photography company.
 
-<a href="https://ibb.co/8dd0fDr"><img src="https://i.ibb.co/CMMzY5b/Project-Pages.jpg" alt="Project-Pages" border="0" /></a>
+<a href="https://ibb.co/8dd0fDr"><img src="https://i.ibb.co/CMMzY5b/Project-Pages.jpg" alt="Project-Pages" border="0"/></a>
 
-This website aims to showcase the company's best photography work and eventually achieve call to action from the users. From the company name, logo, corporate colour scheme to the website design concept, the objective is to provide a forthright, passionate yet sincere approach to attract the target audience. 
+This website aims to showcase the company's best photography work and eventually achieve  a call to action from the user. From the company name, logo, corporate colour scheme to the website design concept, the objective is to provide a forthright, passionate yet sincere approach to attract the target audience. 
 
-After visiting the website, the user will be able to fully understand the firm's background and basic team sturcture via the introduction on the About Us page. The best photography works of the firm will also be interactively illustrated on the webpage. Eventually, with hopes to establish a connection with the customers at the contact us page.
+After visiting the website, the user will be able to fully understand the firm's background and basic team sturcture via the introduction on the About Us page. The best photography works of the firm will also be interactively illustrated on the Galleries page. Eventually, with hopes to establish a connection with the customers at the Contact Us page.
  
 ## UX
  
