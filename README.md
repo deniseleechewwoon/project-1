@@ -29,17 +29,17 @@ Last but not least, I hope to finally established a contact with the user of the
 ## Features
 
 * Centralised Navigation Bar - Easy access and is mobile reponsive
-* [Home Page] (https://deniseleechewwoon.github.io/project-1-ardourphotography/index.html) 
+* [Home Page](https://deniseleechewwoon.github.io/project-1-ardourphotography/index.html) 
     1. Animated Page, slides in together with Company Logo from top of page - Brings some life to the static page.
     2. Animated button on hover - making it interactive
-* [About Us Page] (https://deniseleechewwoon.github.io/project-1-ardourphotography/about-us.html) 
+* [About Us Page](https://deniseleechewwoon.github.io/project-1-ardourphotography/about-us.html) 
     1. Animated Top Jumbotron, slides in from top of page - Brings some life to the static page.
     2. Profile Pictures tranisitions into overlay with text on hover - making it interactive
-* [Galleries Page] (https://deniseleechewwoon.github.io/project-1-ardourphotography/galleries.html)
+* [Galleries Page](https://deniseleechewwoon.github.io/project-1-ardourphotography/galleries.html)
     1. Animated Top Jumbotron, slides in from top of page - Brings some life to the static page.
     2. Image tranisitions into an overlay with text on hover
     3. Mobile responsive modal image gallery (lightbox) using css and javascript
-* [Contact Page] (https://deniseleechewwoon.github.io/project-1-ardourphotography/contact-us.html)
+* [Contact Page](https://deniseleechewwoon.github.io/project-1-ardourphotography/contact-us.html)
     1. Required fields for email and message - to ensure leads for company
     2. Form validator for email
 
