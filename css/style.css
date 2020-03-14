@@ -204,9 +204,26 @@ h1{
 .text2 {
 	color: white;
 	font-family: 'Rouge Script', cursive;
-	font-size: 3vw;
+	font-size: 3.3vw;
 	position: absolute;
-	top: 50%;
+	white-space: nowrap;
+	top: 46%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+	line-height: 2.8vw;
+}
+
+.text3 {
+	color: white;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.2vw;
+	text-transform: uppercase;
+	white-space: nowrap;
+	position: absolute;
+	top: 62%;
 	left: 50%;
 	-webkit-transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
