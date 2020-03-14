@@ -12,16 +12,19 @@ After visiting the website, the user should be able to fully understand the comp
  
 ## UX
 
-The target audience for the website are consumers looking for professinal photographers and photography enthusiasists. Eventually, I hope to achieve the intent of converting viewers of the website into company customers or potential photography collaborations.
+The target audience for the website will be
+* Consumers looking for professinal photographers
+* Photography enthusiasists
 
-In order to achieve the intent, the wesbite uses clean, minimalist yet attention seeking elements to capture and leave a impression on the viewers. This will portray a forthright, passionate yet sincere image for the company. A four-colour palette scheme consisting of both warm and cool colours was maintained throughout the whole website design. The design concept comes with the intent to let the users feel the passion of the company. Concurrently, it strives to maintain a certain degree of professionalism by maintaining the minimalist look and feel of the whole website. This is consistent and evdident through the initial sketching of wireframe. A copy of the sketch may be viewed [here](https://drive.google.com/open?id=1v517SFDDMVm5ZJ5zaNFKmwJi8O_Qc_-k)
+In order to achieve the intent of converting viewers of the website into company customers or potential photography collaborations, the wesbite aims to portray a forthright, passionate yet sincere image for the company. It uses clean, minimalist yet attention seeking elements to capture and leave a impression on the viewers. A four-colour palette scheme consisting of both warm and cool colours was maintained throughout the whole website design. The website strives to represent a certain degree of professionalism by keeping the minimalist look and feel through the whole website. This is consistent and evdident through the initial sketching of the wireframe. A copy of the sketch may be viewed [here](https://drive.google.com/open?id=1v517SFDDMVm5ZJ5zaNFKmwJi8O_Qc_-k).
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Besides the look, the website also ensure that it is user-friendly and intereactive. When a user first enter the website, they will be greeted by a captivating photo and the company logo that slides in from the top of the page - which brings relieves to the static page. The landing page of the website only consist of an animated button on hover, this will induce the user to look at the company name, quote and photo before they officially enter to the About Us page.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+By bringing the users directly to the About Us page, it guides them immediately to find out about what the company is doing. In there, users will be "greeted" by the team as they hover over their photos. On hovering each profile photo, it shows : I'm Name (Joseph) followed by their designation. Using this, I hope to create a light-hearted and welcoming ambience to the page. 
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+Naturally, the core of the website is the galleries page since this is a photography company website. To ensure that users can view their desired categories of photography works , the various galleries were carefully categorized using prominent images and tranisitions into an overlay with text on hover. Upon entering each gallery, users will be able to view the photographs clearly via the modal image gallery (lightbox). Needless to say, the photographs will do the talking/selling!
+
+Last but not least, we hope to finally established a contact with the user of the website. To keep the users, we hope to keep it simple by establishing a clear and painless contact form for them to fill in. The email and message segment was made a required field so the company will be able to follow up with them on their wishes or requests.
 
 ## Features
 
