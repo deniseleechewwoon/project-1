@@ -5,7 +5,6 @@
 For this project, a website was created for a fictitious photography company.
 
 <a href="https://ibb.co/8dd0fDr"><img src="https://i.ibb.co/CMMzY5b/Project-Pages.jpg" alt="Project-Pages" border="0"/></a>
-<a href="https://gifyu.com/image/IfkH"><img src="https://s5.gifyu.com/images/1584175849375-1.gif" alt="1584175849375-1.gif" border="0" /></a>
 
 This website aims to showcase the company's best photography work and eventually achieve  a call to action from the user. From the company name, logo, corporate colour scheme to the website design concept, the objective is to provide a forthright, passionate yet sincere approach to attract the target audience. 
 
@@ -13,11 +12,9 @@ After visiting the website, the user should be able to fully understand the comp
  
 ## UX
 
-The target audience for the website are consumers looking for professinal photographers and photography enthusiasists. Eventually, I hope to achieve the intent of converting viewers of the website into company customers or other photography collaborations.
+The target audience for the website are consumers looking for professinal photographers and photography enthusiasists. Eventually, I hope to achieve the intent of converting viewers of the website into company customers or potential photography collaborations.
 
-In order to achieve the intent, the wesbite uses clean, minimalist yet attention seeking elements to capture and leave a deep impression on the viewers. This will portray a forthright, passionate yet sincere image for the company. A four-colour palette consisting of both warm and cool colours was maintained throughout the whole website design. This 
-
-The design concept comes with the intent to let the users feel the passion of the company. Concurrently, it strives to maintain a certain degree of professionalism by maintaining the minimalist look and feel of the whole webpage. 
+In order to achieve the intent, the wesbite uses clean, minimalist yet attention seeking elements to capture and leave a impression on the viewers. This will portray a forthright, passionate yet sincere image for the company. A four-colour palette scheme consisting of both warm and cool colours was maintained throughout the whole website design. The design concept comes with the intent to let the users feel the passion of the company. Concurrently, it strives to maintain a certain degree of professionalism by maintaining the minimalist look and feel of the whole website. This is consistent and evdident through the initial sketching of wireframe. A copy of the sketch may be viewed [here](https://drive.google.com/open?id=1v517SFDDMVm5ZJ5zaNFKmwJi8O_Qc_-k)
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
