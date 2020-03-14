@@ -2,16 +2,22 @@
 ##  Code Institute - User Centric Frontend Development Milestone Project (1)
 ##  Student Name: Denise Lee Chew Woon
 
-For this project, I am creating a website for a fictitious photography company.
+For this project, a website was created for a fictitious photography company.
 
 <a href="https://ibb.co/8dd0fDr"><img src="https://i.ibb.co/CMMzY5b/Project-Pages.jpg" alt="Project-Pages" border="0"/></a>
 
 This website aims to showcase the company's best photography work and eventually achieve  a call to action from the user. From the company name, logo, corporate colour scheme to the website design concept, the objective is to provide a forthright, passionate yet sincere approach to attract the target audience. 
 
-After visiting the website, the user will be able to fully understand the firm's background and basic team sturcture via the introduction on the About Us page. The best photography works of the firm will also be interactively illustrated on the Galleries page. Eventually, with hopes to establish a connection with the customers at the Contact Us page.
+After visiting the website, the user should be able to fully understand the company's background and basic team sturcture via the introduction on the About Us page. The best photography works of the firm will also be interactively illustrated on the Galleries page. Eventually, with hopes to establish a connection with the customers at the Contact Us page.
  
 ## UX
- 
+
+The target audience for the website are consumers looking for professinal photographers and photography enthusiasists. Eventually, I hope to achieve the intent of converting viewers of the website into company customers or other photography collaborations.
+
+In order to achieve the intent, the wesbite uses clean, minimalist yet attention seeking elements to capture and leave a deep impression on the viewers. This will portray a forthright, passionate yet sincere image for the company. A four-colour palette consisting of both warm and cool colours was maintained throughout the whole website design. This 
+
+The design concept comes with the intent to let the users feel the passion of the company. Concurrently, it strives to maintain a certain degree of professionalism by maintaining the minimalist look and feel of the whole webpage. 
+
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
