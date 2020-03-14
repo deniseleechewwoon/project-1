@@ -50,9 +50,19 @@ Last but not least, I hope to finally established a contact with the user of the
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+* [HTML](https://www.w3schools.com/html/) - standard markup language for creating web pages
+    - HTML is basically used throughout the whole document to construct the various segments and putting things together.
 
-- [JQuery](https://jquery.com)
+* [CSS](https://www.w3schools.com/css/) - describes the style of the HTML document
+    - CSS is important to maintain the look, style and feel of the website.
+
+* [Bootstrap 4.4](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - popular framework for building responsive, mobile-first sites
+    - Bootstrap framework makes things easier to have basic features and minimised the use of css styling with bottstrap features
+
+* [Javascript](https://www.youtube.com/watch?v=gnDOjWUSHks)
+    - Javascript is used to create a responsive lightbox - modal image gallery
+
+* [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
 
@@ -92,6 +102,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+https://fireflyphotographysg.com/
 
 ### Media
 - The photos used in this site were obtained from ...
