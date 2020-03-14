@@ -40,17 +40,10 @@ Last but not least, I hope to finally established a contact with the user of the
     2. Image tranisitions into an overlay with text on hover
     3. Mobile responsive modal image gallery (lightbox) using css and javascript
 * [Contact Page](https://deniseleechewwoon.github.io/project-1-ardourphotography/contact-us.html)
-    1. Required fields for email and message - to ensure leads for company
-    2. Form validator for email
+    1. Animated Top Jumbotron, slides in from top of page - Brings some life to the static page.
+    2. Required fields for email and message - to ensure leads for company
+    3. Form validator for email
 
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 - Another feature idea
