@@ -18,17 +18,31 @@ The target audience for the website will be
 
 In order to achieve the intent of converting viewers of the website into company customers or potential photography collaborations, the wesbite aims to portray a forthright, passionate yet sincere image for the company. It uses clean, minimalist yet attention seeking elements to capture and leave a impression on the viewers. A four-colour palette scheme consisting of both warm and cool colours was maintained throughout the whole website design. The website strives to represent a certain degree of professionalism by keeping the minimalist look and feel through the whole website. This is consistent and evdident through the initial sketching of the wireframe. A copy of the sketch may be viewed [here](https://drive.google.com/open?id=1v517SFDDMVm5ZJ5zaNFKmwJi8O_Qc_-k).
 
-Besides the look, the website also ensure that it is user-friendly and intereactive. When a user first enter the website, they will be greeted by a captivating photo and the company logo that slides in from the top of the page - which brings relieves to the static page. The landing page of the website only consist of an animated button on hover, this will induce the user to look at the company name, quote and photo before they officially enter to the About Us page.
+Besides the look, the website also ensure that it is user-friendly and intereactive. When a user first enter the website, they will be greeted by a captivating photo and the company logo and quote followed by a button. This will induce the user to look at the company name, quote and photo before they officially enter to the About Us page.
 
 By bringing the users directly to the About Us page, it guides them immediately to find out about what the company is doing. In there, users will be "greeted" by the team as they hover over their photos. On hovering each profile photo, it shows : I'm Name (Joseph) followed by their designation. Using this, I hope to create a light-hearted and welcoming ambience to the page. 
 
-Naturally, the core of the website is the galleries page since this is a photography company website. To ensure that users can view their desired categories of photography works , the various galleries were carefully categorized using prominent images and tranisitions into an overlay with text on hover. Upon entering each gallery, users will be able to view the photographs clearly via the modal image gallery (lightbox). Needless to say, the photographs will do the talking/selling!
+Naturally, the core of the website is the galleries page since this is a photography company website. To ensure that users can view their desired categories of photography works , the various galleries were carefully categorized using prominent images. Upon entering each gallery, users will be able to view the photographs clearly via the modal image gallery (lightbox). Needless to say, the photographs will do the talking/selling!
 
-Last but not least, we hope to finally established a contact with the user of the website. To keep the users, we hope to keep it simple by establishing a clear and painless contact form for them to fill in. The email and message segment was made a required field so the company will be able to follow up with them on their wishes or requests.
+Last but not least, I hope to finally established a contact with the user of the website. To keep the users, I hope to keep it simple by establishing a clear and painless contact form for them to fill in. The email and message segment was made a required field so the company will be able to follow up with them on their wishes or requests.
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+* Centralised Navigation Bar - Easy access and is mobile reponsive
+* [Home Page] (https://deniseleechewwoon.github.io/project-1-ardourphotography/index.html) 
+    1. Animated Page, slides in together with Company Logo from top of page - Brings some life to the static page.
+    2. Animated button on hover - making it interactive
+* [About Us Page] (https://deniseleechewwoon.github.io/project-1-ardourphotography/about-us.html) 
+    1. Animated Top Jumbotron, slides in from top of page - Brings some life to the static page.
+    2. Profile Pictures tranisitions into overlay with text on hover - making it interactive
+* [Galleries Page] (https://deniseleechewwoon.github.io/project-1-ardourphotography/galleries.html)
+    1. Animated Top Jumbotron, slides in from top of page - Brings some life to the static page.
+    2. Image tranisitions into an overlay with text on hover
+    3. Mobile responsive modal image gallery (lightbox) using css and javascript
+* [Contact Page] (https://deniseleechewwoon.github.io/project-1-ardourphotography/contact-us.html)
+    1. Required fields for email and message - to ensure leads for company
+    2. Form validator for email
+
  
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
