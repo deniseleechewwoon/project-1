@@ -8,7 +8,7 @@ For this project, a website was created for a fictitious photography company.
 
 This website aims to showcase the company's best photography work and eventually achieve  a call to action from the user. From the company name, logo, corporate colour scheme to the website design concept, the objective is to provide a forthright, passionate yet sincere approach to attract the target audience. 
 
-After visiting the website, the user should be able to fully understand the company's background and basic team sturcture via the introduction on the About Us page. The best photography works of the firm will also be interactively illustrated on the Galleries page. Eventually, with hopes to establish a connection with the customers at the Contact Us page.
+After visiting the website, the user should be able to fully understand the company's background and basic team structure via the introduction on the About Us page. The best photography works of the firm will also be interactively illustrated on the Galleries page. Eventually, with hopes to establish a connection with the customers at the Contact Us page.
  
 ## UX
 
