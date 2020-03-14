@@ -5,6 +5,7 @@
 For this project, a website was created for a fictitious photography company.
 
 <a href="https://ibb.co/8dd0fDr"><img src="https://i.ibb.co/CMMzY5b/Project-Pages.jpg" alt="Project-Pages" border="0"/></a>
+<a href="https://gifyu.com/image/IfkH"><img src="https://s5.gifyu.com/images/1584175849375-1.gif" alt="1584175849375-1.gif" border="0" /></a>
 
 This website aims to showcase the company's best photography work and eventually achieve  a call to action from the user. From the company name, logo, corporate colour scheme to the website design concept, the objective is to provide a forthright, passionate yet sincere approach to attract the target audience. 
 
