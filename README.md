@@ -71,24 +71,26 @@ Last but not least, I hope to finally established a contact with the user of the
 
 
 ## Testing
+The site is manually tested on a macbook pro, windows laptop, mobile device (Samsung note 9) and ipad pro to ensure the responsiveness and that all the links work well.
+They were tested on different browsers (Chrome, Safari, Morzilla Firefox and Internet Explorer).
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The site works well....
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+1. Landing Page
+    - The animated slide in effect of the page works well with every refresh
+    - The button ia able to bring the users to the About Page works well
+2. About Us
+    - The navbar to access all the pages (Home > About Us > Galleries > Contact) is tested to ensure it works well
+    - There is a image hover effect on all the profile pictures of the team and it is tested to work well
+3. Galleries
+    - The navbar to access all the pages (Home > About Us > Galleries > Contact) is tested to ensure it works well
+    - There is a image hover link to each gallery and is tested to work well
+4. Contact
+    - The navbar to access all the pages (Home > About Us > Galleries > Contact) is tested to ensure it works well
+    - Try to submit an empty form and verify that an error message about the required fields appears
+    - Try to submit the form with an invalid email address and verify that a relevant error message appears
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+The site was also tested using online platform [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) and results show that page is mobile friendly and easy to use on a mobile device.
 
 ## Deployment
 
