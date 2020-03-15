@@ -6,19 +6,19 @@ For this project, a website was created for a fictitious photography company.
 
 <a href="https://ibb.co/8dd0fDr"><img src="https://i.ibb.co/CMMzY5b/Project-Pages.jpg" alt="Project-Pages" border="0"/></a>
 
-This website aims to showcase the company's best photography work and eventually achieve  a call to action from the user. From the company name, logo, corporate colour scheme to the website design concept, the objective is to provide a forthright, passionate yet sincere approach to attract the target audience. 
+This website aims to showcase the company's best photography work and eventually achieve a call to action from the user. From the company name, logo, corporate colour scheme to the website design concept, the objective is to provide a forthright, passionate yet sincere approach to attract the target audience. 
 
 After visiting the website, the user should be able to fully understand the company's background and basic team structure via the introduction on the About Us page. The best photography works of the firm will also be interactively illustrated on the Galleries page. Eventually, with hopes to establish a connection with the customers at the Contact Us page.
  
 ## UX
 
 The target audience for the website will be
-* Consumers looking for professinal photographers
+* Consumers looking for professional photographers
 * Photography enthusiasists
 
-In order to achieve the intent of converting viewers of the website into company customers or potential photography collaborations, the wesbite aims to portray a forthright, passionate yet sincere image for the company. It uses clean, minimalist yet attention seeking elements to capture and leave a impression on the viewers. A four-colour palette scheme consisting of both warm and cool colours was maintained throughout the whole website design. The website strives to represent a certain degree of professionalism by keeping the minimalist look and feel through the whole website. This is consistent and evdident through the initial sketching of the wireframe. A copy of the sketch may be viewed [here](https://drive.google.com/open?id=1v517SFDDMVm5ZJ5zaNFKmwJi8O_Qc_-k).
+In order to achieve the intent of converting viewers of the website into company customers or potential photography collaborations, the wesbite aims to portray a forthright, passionate yet sincere image for the company. It uses clean, minimalist yet attention seeking elements to capture and leave a impression on the viewers. A four-colour palette scheme consisting of both warm and cool colours was maintained throughout the whole website design. The website strives to represent a certain degree of professionalism by keeping the minimalist look and feel throughout the website. This is consistent and evdident through the initial sketching of the wireframe. A copy of the sketch may be viewed [here](https://drive.google.com/open?id=1v517SFDDMVm5ZJ5zaNFKmwJi8O_Qc_-k).
 
-Besides the look, the website also ensure that it is user-friendly and intereactive. When a user first enter the website, they will be greeted by a captivating photo and the company logo and quote followed by a button. This will induce the user to look at the company name, quote and photo before they officially enter to the About Us page.
+Besides the look, the website also ensure that it is user-friendly and intereactive. When a user first enter the website, they will be greeted by a captivating photo, company logo, quote followed by a button. This will induce the user to look at the company name, quote and photo before they officially enter to the About Us page.
 
 By bringing the users directly to the About Us page, it guides them immediately to find out about what the company is doing. In there, users will be "greeted" by the team as they hover over their photos. On hovering each profile photo, it shows : I'm Name (Joseph) followed by their designation. Using this, I hope to create a light-hearted and welcoming ambience to the page. 
 
@@ -46,7 +46,9 @@ Last but not least, I hope to finally established a contact with the user of the
 
 
 ### Features Left to Implement
-- Another feature idea
+* To add in a full video background on landing page - increase the interactive element and tell a story via the video
+* To add in a smooth scrolling effect with CSS for the Galleries Page - when the galleries page categories grow, it will be easier for the viewers
+* To add in a depository for the contact us page - make the form workable
 
 ## Technologies Used
 
@@ -101,12 +103,20 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-https://fireflyphotographysg.com/
+- The text for the About Us section was modified from the [Firefly Photography SG](https://fireflyphotographysg.com/)
+- The text for the Galleries and Contact Section was modified from [Lisa Michele Burns](https://www.lisamicheleburns.com/)
+
 
 ### Media
-- The photos used in this site were obtained from ...
+- Only the photo from the home page was taken by me. All the other photos used in this site were obtained from [Unsplash](https://unsplash.com) and [Pexels](https://www.pexels.com). Please refer to the full credits and link for each image [here](https://drive.google.com/open?id=1okGs7z2vhfrdHt4a5wS5srXpBuL7fmJd).
+- The company logo was created by me using [Photoshop](https://www.adobe.com/sea/products/photoshop.html?gclid=EAIaIQobChMI_rXt5v2c6AIVWq6WCh3BSwRuEAAYASAAEgIzIPD_BwE&sdid=YP7XGDLR&mv=search&ef_id=EAIaIQobChMI_rXt5v2c6AIVWq6WCh3BSwRuEAAYASAAEgIzIPD_BwE:G:s&s_kwcid=AL!3085!3!400503272159!e!!g!!photoshop) by myself.
 
 ### Acknowledgements
+- CSS Styling by [Bootstrap4](https://getbootstrap.com/).
+- All fonts used for this site are obtained from [google fonts](https://fonts.google.com/).
+- The landing page camera icon was obtained from [Font Awesome](https://fontawesome.com/).
+- The navbar center aligned was inspired by [User: Skelly @ Codeply](https://www.codeply.com/u/skelly) and code take from [here](https://www.codeply.com/go/0xSGj0EsAu).
+- Image Hover Overlay effects and Image Hover Fullscreen Zoom was learnt from [w3schools](https://www.w3schools.com/howto/howto_css_image_overlay.asp).
+- Responsive lightbox image gallery was learnt and obtained from [webseotips](https://www.youtube.com/watch?v=gnDOjWUSHks).
 
-- I received inspiration for this project from X
+### This website created is for educational use.
