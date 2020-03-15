@@ -6,6 +6,8 @@ For this project, a website was created for a fictitious photography company.
 
 <a href="https://ibb.co/8dd0fDr"><img src="https://i.ibb.co/CMMzY5b/Project-Pages.jpg" alt="Project-Pages" border="0"/></a>
 
+The site may be viewed [here](https://deniseleechewwoon.github.io/project-1-ardourphotography/index.html)
+
 This website aims to showcase the company's best photography work and eventually achieve a call to action from the user. From the company name, logo, corporate colour scheme to the website design concept, the objective is to provide a forthright, passionate yet sincere approach to attract the target audience. 
 
 After visiting the website, the user should be able to fully understand the company's background and basic team structure via the introduction on the About Us page. The best photography works of the firm will also be interactively illustrated on the Galleries page. Eventually, with hopes to establish a connection with the customers at the Contact Us page.
@@ -90,15 +92,12 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+This site is hosted on Github Pages and directly deployed from the master branch.
+A repository was firstly created using github and commits were pushed to the master branch. Materials are pushed to the GitHub repository with git add, git commit, and git push.
+Eventually, the deployed site will be updated automatically upon any new commits. 
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
+The landing page of the site is named index.html
+There are 2 folders, namely CSS and Img to place the css stylesheet and images on the website respectively. 
 
 ## Credits
 
@@ -108,15 +107,15 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ### Media
-- Only the photo from the home page was taken by me. All the other photos used in this site were obtained from [Unsplash](https://unsplash.com) and [Pexels](https://www.pexels.com). Please refer to the full credits and link for each image [here](https://drive.google.com/open?id=1okGs7z2vhfrdHt4a5wS5srXpBuL7fmJd).
-- The company logo was created by me using [Photoshop](https://www.adobe.com/sea/products/photoshop.html?gclid=EAIaIQobChMI_rXt5v2c6AIVWq6WCh3BSwRuEAAYASAAEgIzIPD_BwE&sdid=YP7XGDLR&mv=search&ef_id=EAIaIQobChMI_rXt5v2c6AIVWq6WCh3BSwRuEAAYASAAEgIzIPD_BwE:G:s&s_kwcid=AL!3085!3!400503272159!e!!g!!photoshop) by myself.
+- Only the photo from the home page is taken by me. All the other photos used in this site are obtained from [Unsplash](https://unsplash.com) and [Pexels](https://www.pexels.com). Please refer to the full credits and link for each image [here](https://drive.google.com/open?id=1okGs7z2vhfrdHt4a5wS5srXpBuL7fmJd).
+- The company logo was created using [Photoshop](https://www.adobe.com/sea/products/photoshop.html?gclid=EAIaIQobChMI_rXt5v2c6AIVWq6WCh3BSwRuEAAYASAAEgIzIPD_BwE&sdid=YP7XGDLR&mv=search&ef_id=EAIaIQobChMI_rXt5v2c6AIVWq6WCh3BSwRuEAAYASAAEgIzIPD_BwE:G:s&s_kwcid=AL!3085!3!400503272159!e!!g!!photoshop) by myself.
 
 ### Acknowledgements
 - CSS Styling by [Bootstrap4](https://getbootstrap.com/).
 - All fonts used for this site are obtained from [google fonts](https://fonts.google.com/).
-- The landing page camera icon was obtained from [Font Awesome](https://fontawesome.com/).
-- The navbar center aligned was inspired by [User: Skelly @ Codeply](https://www.codeply.com/u/skelly) and code take from [here](https://www.codeply.com/go/0xSGj0EsAu).
-- Image Hover Overlay effects and Image Hover Fullscreen Zoom was learnt from [w3schools](https://www.w3schools.com/howto/howto_css_image_overlay.asp).
-- Responsive lightbox image gallery was learnt and obtained from [webseotips](https://www.youtube.com/watch?v=gnDOjWUSHks).
+- The landing page camera icon is obtained from [Font Awesome](https://fontawesome.com/).
+- The navbar center aligned is inspired by [User: Skelly @ Codeply](https://www.codeply.com/u/skelly) and code take from [here](https://www.codeply.com/go/0xSGj0EsAu).
+- Image Hover Overlay effects and Image Hover Fullscreen Zoom are learnt from [w3schools](https://www.w3schools.com/howto/howto_css_image_overlay.asp).
+- Responsive lightbox image gallery is learnt and obtained from [webseotips](https://www.youtube.com/watch?v=gnDOjWUSHks).
 
 ### This website created is for educational use.
