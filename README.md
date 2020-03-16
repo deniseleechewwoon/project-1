@@ -16,21 +16,21 @@ After visiting the website, the user should be able to fully understand the comp
 
 The target audience for the website will be
 * Consumers looking for professional photographers
-* Photography enthusiasists
+* Photography enthusiasts
 
-In order to achieve the intent of converting viewers of the website into company customers or potential photography collaborations, the wesbite aims to portray a forthright, passionate yet sincere image for the company. It uses clean, minimalist yet attention seeking elements to capture and leave a impression on the viewers. A four-colour palette scheme consisting of both warm and cool colours was maintained throughout the whole website design. The website strives to represent a certain degree of professionalism by keeping the minimalist look and feel throughout the website. This is consistent and evdident through the initial sketching of the wireframe. A copy of the sketch may be viewed [here](https://drive.google.com/open?id=1v517SFDDMVm5ZJ5zaNFKmwJi8O_Qc_-k).
+In order to achieve the intent of converting viewers of the website into company customers or potential photography collaborations, the website aims to portray a forthright, passionate yet sincere image for the company. It uses clean, minimalist yet attention seeking elements to capture and leave an impression on the viewers. A four-colour palette scheme consisting of both warm and cool colours was maintained throughout the whole website design. The website strives to represent a certain degree of professionalism by keeping the minimalist look and feel throughout the website. This is consistent and evident through the initial sketching of the wireframe. A copy of the sketch may be viewed [here](https://drive.google.com/open?id=1v517SFDDMVm5ZJ5zaNFKmwJi8O_Qc_-k).
 
-Besides the look, the website also ensure that it is user-friendly and intereactive. When a user first enter the website, they will be greeted by a captivating photo, company logo, quote followed by a button. This will induce the user to look at the company name, quote and photo before they officially enter to the About Us page.
+Besides the look, the website also ensure that it is user-friendly and interactive. When a user first enter the website, they will be greeted by a captivating photo, company logo, quote followed by a button. This will induce the user to look at the company name, quote and photo before they officially enter to the About Us page.
 
-By bringing the users directly to the About Us page, it guides them immediately to find out about what the company is doing. In there, users will be "greeted" by the team as they hover over their photos. On hovering each profile photo, it shows : I'm Name (Joseph) followed by their designation. Using this, I hope to create a light-hearted and welcoming ambience to the page. 
+By bringing the users directly to the About Us page, it guides them immediately to find out about what the company is doing. In there, users will be "greeted" by the team as they hover over their photos. On hovering each profile photo, it shows: I'm Name (Joseph) followed by their designation. Using this, I hope to create a light-hearted and welcoming ambience to the page. 
 
-Naturally, the core of the website is the galleries page since this is a photography company website. To ensure that users can view their desired categories of photography works , the various galleries were carefully categorized using prominent images. Upon entering each gallery, users will be able to view the photographs clearly via the modal image gallery (lightbox). Needless to say, the photographs will do the talking/selling!
+Naturally, the core of the website is the galleries page since this is a photography company website. To ensure that users can view their desired categories of photography works, the various galleries were carefully categorized using prominent images. Upon entering each gallery, users will be able to view the photographs clearly via the modal image gallery (lightbox). Needless to say, the photographs will do the talking/selling!
 
-Last but not least, I hope to finally established a contact with the user of the website. To keep the users, I hope to keep it simple by establishing a clear and painless contact form for them to fill in. The email and message segment was made a required field so the company will be able to follow up with them on their wishes or requests.
+Last but not least, I hope to finally establish a contact with the user of the website. To keep the users, I hope to keep it simple by establishing a clear and painless contact form for them to fill in. The email and message segment was made a required field so the company will be able to follow up with them on their wishes or requests.
 
 ## Features
 
-* Centralised Navigation Bar - Easy access and is mobile reponsive
+* Centralised Navigation Bar - Easy access and is mobile responsive
 * [Home Page](https://deniseleechewwoon.github.io/project-1-ardourphotography/index.html) 
     1. Animated Page, slides in together with Company Logo from top of page - Brings some life to the static page.
     2. Animated button on hover - making it interactive
@@ -55,13 +55,13 @@ Last but not least, I hope to finally established a contact with the user of the
 ## Technologies Used
 
 * [HTML](https://www.w3schools.com/html/) - standard markup language for creating web pages
-    - HTML is basically used throughout the whole document to construct the various segments and putting things together.
+    - HTML is basically used throughout the whole document to construct the various segments and putting things together
 
 * [CSS](https://www.w3schools.com/css/) - describes the style of the HTML document
-    - CSS is important to maintain the look, style and feel of the website.
+    - CSS is important to maintain the look, style and feel of the website
 
 * [Bootstrap 4.4](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - popular framework for building responsive, mobile-first sites
-    - Bootstrap framework makes things easier to have basic features and minimised the use of css styling with bottstrap features
+    - Bootstrap framework makes things easier to have basic features and minimised the use of css styling with bootstrap features
 
 * [Javascript](https://www.youtube.com/watch?v=gnDOjWUSHks)
     - Javascript is used to create a responsive lightbox - modal image gallery
@@ -72,9 +72,6 @@ Last but not least, I hope to finally established a contact with the user of the
 
 ## Testing
 The site is manually tested on a macbook pro, windows laptop, mobile device (Samsung note 9) and ipad pro to ensure the responsiveness and that all the links work well.
-They were tested on different browsers (Chrome, Safari, Morzilla Firefox and Internet Explorer).
-
-The site works well....
 
 1. Landing Page
     - The animated slide in effect of the page works well with every refresh
@@ -90,6 +87,9 @@ The site works well....
     - Try to submit an empty form and verify that an error message about the required fields appears
     - Try to submit the form with an invalid email address and verify that a relevant error message appears
 
+The site was manually tested on different browsers (Chrome, Safari, Morzilla Firefox and Internet Explorer).
+The site works well on all browsers except for internet explorer. In internet explorer, the individual gallary page was not able to load the photos nicely as it does on other browsers.
+
 The site was also tested using online platform [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) and results show that page is mobile friendly and easy to use on a mobile device.
 
 ## Deployment
@@ -98,7 +98,7 @@ This site is hosted on Github Pages and directly deployed from the master branch
 A repository was firstly created using github and commits were pushed to the master branch. Materials are pushed to the GitHub repository with git add, git commit, and git push.
 Eventually, the deployed site will be updated automatically upon any new commits. 
 
-The landing page of the site is named index.html
+The landing page of the site is named index.html.
 There are 2 folders, namely CSS and Img to place the css stylesheet and images on the website respectively. 
 
 ## Credits
