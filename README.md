@@ -6,7 +6,7 @@ For this project, a website was created for a fictitious photography company.
 
 <a href="https://ibb.co/8dd0fDr"><img src="https://i.ibb.co/CMMzY5b/Project-Pages.jpg" alt="Project-Pages" border="0"/></a>
 
-The site may be viewed [here](https://deniseleechewwoon.github.io/project-1-ardourphotography/index.html)
+The site may be viewed [here](https://deniseleechewwoon.github.io/project-1-ardourphotography/index.html).
 
 This website aims to showcase the company's best photography work and eventually achieve a call to action from the user. From the company name, logo, corporate colour scheme to the website design concept, the objective is to provide a forthright, passionate yet sincere approach to attract the target audience. 
 
