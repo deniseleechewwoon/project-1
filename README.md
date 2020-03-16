@@ -18,13 +18,13 @@ The target audience for the website will be
 * Consumers looking for professional photographers
 * Photography enthusiasts
 
-In order to achieve the intent of converting viewers of the website into company customers or potential photography collaborations, the website aims to portray a forthright, passionate yet sincere image for the company. It uses clean, minimalist yet attention seeking elements to capture and leave an impression on the viewers. A four-colour palette scheme consisting of both warm and cool colours was maintained throughout the whole website design. The website strives to represent a certain degree of professionalism by keeping the minimalist look and feel throughout the website. This is consistent and evident through the initial sketching of the wireframe. A copy of the sketch may be viewed [here](https://drive.google.com/open?id=1v517SFDDMVm5ZJ5zaNFKmwJi8O_Qc_-k).
+In order to achieve the intent of converting viewers of the website into company customers or potential photography collaborations, the website aims to portray a forthright, passionate yet sincere image for the company. It uses clean, minimalist yet attention seeking elements to capture and leave an impression on the viewers. A four-colour palette scheme consisting of both warm and cool colours was maintained throughout the whole website design. The website strives to represent a certain degree of professionalism by keeping the minimalist look and feel throughout. This is consistent and evident through the initial sketching of the wireframe. A copy of the sketch may be viewed [here](https://drive.google.com/open?id=1v517SFDDMVm5ZJ5zaNFKmwJi8O_Qc_-k).
 
 Besides the look, the website also ensure that it is user-friendly and interactive. When a user first enter the website, they will be greeted by a captivating photo, company logo, quote followed by a button. This will induce the user to look at the company name, quote and photo before they officially enter to the About Us page.
 
-By bringing the users directly to the About Us page, it guides them immediately to find out about what the company is doing. In there, users will be "greeted" by the team as they hover over their photos. On hovering each profile photo, it shows: I'm Name (Joseph) followed by their designation. Using this, I hope to create a light-hearted and welcoming ambience to the page. 
+By bringing the users directly to the About Us page, it guides them immediately to find out about what the company is doing. In there, users will be "greeted" by the team as they hover over their photos. On hovering each profile photo, it shows: I'm Name (Joseph) followed by their designation (Chief Photographer). Using this, I hope to create a light-hearted and welcoming ambience to the page. 
 
-Naturally, the core of the website is the galleries page since this is a photography company website. To ensure that users can view their desired categories of photography works, the various galleries were carefully categorized using prominent images. Upon entering each gallery, users will be able to view the photographs clearly via the modal image gallery (lightbox). Needless to say, the photographs will do the talking/selling!
+Naturally, the core of the website is the galleries page since this is a photography company website. To ensure that users can view their desired categories of photography works, the various galleries were carefully categorized using prominent images. Upon entering each gallery, users will be able to view the photographs clearly via the modal image gallery (lightbox). Needless to say, the vibrant photographs will do the talking/selling!
 
 Last but not least, I hope to finally establish a contact with the user of the website. To keep the users, I hope to keep it simple by establishing a clear and painless contact form for them to fill in. The email and message segment was made a required field so the company will be able to follow up with them on their wishes or requests.
 
@@ -72,6 +72,8 @@ Last but not least, I hope to finally establish a contact with the user of the w
 
 ## Testing
 The site is manually tested on a macbook pro, windows laptop, mobile device (Samsung note 9) and ipad pro to ensure the responsiveness and that all the links work well.
+
+On all platforms, the following were tested
 
 1. Landing Page
     - The animated slide in effect of the page works well with every refresh
